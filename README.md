@@ -2,7 +2,7 @@
 
 Um aplicativo simples e leve para acompanhar o progresso da campanha do Path of Exile 2, garantindo que você não perca nenhuma passiva, atributo ou recompensa importante.
 
-Criado por Léo Ramalho - Twister POE (youtube.com/@twisterpoe)
+Criado por Léo Ramalho - Twister POE (www.youtube.com/@twisterpoe)
 
 ## 🚀 Funcionalidades
 
@@ -15,7 +15,7 @@ Criado por Léo Ramalho - Twister POE (youtube.com/@twisterpoe)
 ## 📦 Como Usar
 
 ### Passo a Passo
-1.  Baixe o arquivo `twisteroverlay.exe` deste repositório.
+1.  Baixe o arquivo `TwisterOverlayPOE2.exe` deste repositório.
 2.  Certifique-se de que o jogo está em modo **Janela** ou **Janela em Tela Cheia** (Windowed Fullscreen).
 3.  Dê dois cliques no arquivo `.exe` para abrir.
 4.  Use os botões na parte inferior para navegar entre os Atos.
