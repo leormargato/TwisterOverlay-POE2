@@ -1,3 +1,8 @@
+## Twister Overlay POE 2
+## Desenvolvido por: Léo Ramalho - TwisterPOE
+## Sinta-se livre para contribuir com este projeto, peço apenas que me credite como autor original.
+##Obrigado à todos, bom jogo!
+
 import tkinter as tk
 from tkinter import ttk
 
@@ -307,3 +312,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = PoEOverlay(root)
     root.mainloop()
+
