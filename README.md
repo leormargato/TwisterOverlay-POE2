@@ -15,7 +15,7 @@ Criado por Léo Ramalho - Twister POE (www.youtube.com/@twisterpoe)
 ## 📦 Como Usar
 
 ### Passo a Passo
-1.  Baixe o arquivo `TwisterOverlayPOE2.exe` deste repositório. (Versão 100% Traduzida em Português: 'TwisterOverlayPOE2_PTBR.exe')
+1.  Baixe o arquivo `TwisterOverlayPOE2.exe` deste repositório.
 2.  Certifique-se de que o jogo está em modo **Janela** ou **Janela em Tela Cheia** (Windowed Fullscreen).
 3.  Dê dois cliques no arquivo `.exe` para abrir.
 4.  Use os botões na parte inferior para navegar entre os Atos.
