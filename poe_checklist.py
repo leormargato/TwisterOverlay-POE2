@@ -52,8 +52,8 @@ ACTS_DATA = {
         ("Pedreira Mawdun: Mate Rudja", "item"),
         ("Portões Halani: Fale com NPC e volte", "item"),
         ("Passagem do Traidor: Mate Balbala", "item"),
-        ("Portões Halani: Mate L'im (Habilidade)", "item"),
         ("Portões Halani: Mate Jamanra", "item"),
+        ("Provação dos Sekhemas: 1ª Ascendência", "item"),
         ("Terras Baldias: Passagem Sem Luz (Abyss)", "item"),
         ("Terras Baldias: Segredo da Efígie (Gema Sup)", "item"),
         ("Poços de Ossos: Relíquia do Clã do Sol", "item"),
@@ -63,23 +63,24 @@ ACTS_DATA = {
         ("Keth: Mate Kabala (+2 Pontos)", "item"),
         ("Cidade Perdida: Relíquia do Clã Kabala", "item"),
         ("Santuários Enterrados: Azarian (Essência Água)", "item"),
-        ("Vale dos Titãs: Altar da Relíquia (+Mana)", "item"),
+        ("Vale dos Titãs: Altar da Relíquia (Charm effect)", "item"),
         ("Gruta do Titã: Mate Zalmarath", "item"),
+        ("Ardura: Soar Trombeta -> Deshar", "item"),
         ("DESHAR & FINAL", "header"),
         ("Deshar: Dekhara Caído (+2 Pontos)", "item"),
         ("Caminho do Luto: Urna Silenciosa (Gema Sup)", "item"),
-        ("Torres de Deshar: Irmãs (+10% Res. Raio)", "item"),
-        ("Ardura: Soar Trombeta -> Encouraçado", "item"),
+        ("Torres de Deshar: Irmãs Garukhan (+10% Res. Raio)", "item"),
+        ("Torres de Deshar: Mate Tor Gul", "item"),
         ("Encouraçado: Mate Jamanra", "item"),
         ("Ardura: Fale com Sin & Asala -> Ato 3", "item"),
     ],
     "Ato 3": [
         ("ATO 3 - ACAMPAMENTO ZIGURATE", "header"),
-        ("Pântano das Areias: Rootdredge (Gema Hab.)", "item"),
+        ("Pântano das Areias: Mate Rootdredge (Gema Hab.)", "item"),
         ("Fogueira Orok: Orbe de Joalheiro Menor", "item"),
         ("Acampamento Zigurate -> Falar com NPCs", "item"),
         ("Ruínas da Selva: Mate Punho de Prata (+2 pts)", "item"),
-        ("Criptas de Veneno: Pegue o Veneno", "item"),
+        ("Criptas de Veneno: Pegue os Venenos", "item"),
         ("Terras Infestadas: Achar Ponto de Passagem", "item"),
         ("Pântano Azak: Mate Ignagduk (+30 Espírito)", "item"),
         ("Pântanos Quiméricos: Mate Xyclucian", "item"),
@@ -312,5 +313,6 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = PoEOverlay(root)
     root.mainloop()
+
 
 
