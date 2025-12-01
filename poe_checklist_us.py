@@ -52,8 +52,8 @@ ACTS_DATA = {
         ("Mawdun Quarry: Kill Rudja", "item"),
         ("Halani Gates: Talk to NPC & Return", "item"),
         ("Traitor's Passage: Kill Balbala", "item"),
-        ("Halani Gates: Kill L'im (Skill)", "item"),
         ("Halani Gates: Kill Jamanra", "item"),
+        ("Trial of Sekhemas: 1st Ascendancy", "item"),
         ("Mastodon Badlands: Lightless Passage (Abyss)", "item"),
         ("Mastodon Badlands: Effigy Secret (Support Gem)", "item"),
         ("The Bone Pits: Sun Clan Relic", "item"),
@@ -65,11 +65,12 @@ ACTS_DATA = {
         ("Buried Shrines: Azarian (Essence of Water)", "item"),
         ("Valley of the Titans: Relic Altar (+Mana)", "item"),
         ("Titan Grotto: Kill Zalmarath", "item"),
+        ("Ardura: Blow Horn -> Dreadnought", "item"),
         ("DESHAR & FINALE", "header"),
         ("Deshar: Fallen Dekhara (+2 Passive Pts)", "item"),
         ("Path of Mourning: Hushed Urn (Support Gem)", "item"),
         ("Spires of Deshar: Sisters (+10% Light. Res)", "item"),
-        ("Ardura: Blow Horn -> Dreadnought", "item"),
+        ("Spires of Deshar: Kill Tor Gul, the Defiler", "item"),
         ("Dreadnought: Kill Jamanra", "item"),
         ("Ardura: Talk to Sin & Asala -> Act 3", "item"),
     ],
@@ -312,4 +313,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = PoEOverlay(root)
     root.mainloop()
+
 
