@@ -235,7 +235,7 @@ class PoEOverlay:
                  self.task_states[act].append(tk.BooleanVar())
 
         # Carregar o primeiro ato
-        self.load_act("Ato 1")
+        self.load_act("Act 1")
 
     def toggle_collapse(self):
         """Alterna entre mostrar apenas o título ou a janela toda."""
@@ -312,3 +312,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = PoEOverlay(root)
     root.mainloop()
+
