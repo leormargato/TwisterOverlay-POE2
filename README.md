@@ -1,4 +1,4 @@
-# TwisterOverlay-POE2 🛡️
+# 🌪️ TwisterOverlay-POE2 🛡️
 
 Um aplicativo simples e leve para acompanhar o progresso da campanha do Path of Exile 2, garantindo que você não perca nenhuma passiva, atributo ou recompensa importante.
 
