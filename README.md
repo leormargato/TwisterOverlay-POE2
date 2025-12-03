@@ -9,15 +9,23 @@ Sinta-se livre para usar, compartilhar e contribuir!
 O aplicativo evoluiu! Agora contamos com recursos avançados para melhorar sua experiência de leveling:
 
 🎯 Novo MODO FOCO: Um modo minimalista que esconde a lista completa e mostra apenas a missão atual. Ocupa menos espaço na tela e avança automaticamente para a próxima tarefa ao clicar em "Concluir".
+
 ⏭️ Sistema de Pular (Skip): Encontrou um Boss difícil ou quer deixar uma side-quest para depois? Use o botão PULAR. A tarefa vai para o fim da fila e reaparece quando você terminar as outras do Ato. Você nunca esquece nada!
+
 💾 Auto-Save Instantâneo: Seu progresso é salvo automaticamente a cada clique. Fechou o jogo? Crashed? Sem problemas, ao abrir o app tudo estará lá.
+
 🎨 Classificação por Cores: Identifique a prioridade das missões num piscar de olhos (veja a legenda abaixo).
 
 📋 Funcionalidades Principais
+
 Cobertura Completa: Do Ato 1 até o Endgame (Mapas).
+
 Overlay "Sempre no Topo": Fica sobreposto ao jogo para fácil visualização.
+
 Minimizável: Use o botão _ para recolher a lista durante combates intensos.
+
 Transparente: Design limpo que não bloqueia totalmente a visão do jogo.
+
 Multi-Idioma: Disponível em Português (BR) e Inglês (US).
 
 🎨 Legenda de Cores
