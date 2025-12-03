@@ -9,7 +9,7 @@ Um overlay simples, leve e inteligente para acompanhar o progresso da campanha, 
 
 -----
 
-## 🚀 Novidades da Versão 3.0
+## 🚀 Novidades da Versão 2.0
 
 O aplicativo evoluiu\! Agora contamos com recursos avançados para melhorar sua experiência de leveling:
 
