@@ -53,7 +53,7 @@ O jogo **Path of Exile 2** deve estar configurado em modo:
 
 ### Passo a Passo
 
-1.  Vá até a aba **[link suspeito removido]** deste repositório.
+1.  Vá até a aba **Releases** deste repositório.
 2.  Baixe o arquivo executável `.exe` da versão mais recente (Escolha entre `PT-BR` ou `EN-US`).
 3.  Dê dois cliques para abrir. O Windows pode pedir permissão (clique em "Mais informações" -\> "Executar mesmo assim").
 4.  **Pronto\!** Use os botões no rodapé para navegar entre os Atos.
@@ -68,7 +68,7 @@ O jogo **Path of Exile 2** deve estar configurado em modo:
 
 ## 🤝 Contribuição
 
-Este é um projeto **Open Source** feito de fã para fã.
+Este é um projeto **Open Source**.
 Encontrou um erro na ordem das missões? Tem uma ideia nova?
 Sinta-se à vontade para abrir uma **Issue** ou enviar um **Pull Request**.
 
