@@ -1,30 +1,55 @@
-# TwisterOverlay-POE2 🌪️
+🐁 TwisterOverlay-POE2 
 
-Um aplicativo simples e leve para acompanhar o progresso da campanha do Path of Exile 2, garantindo que você não perca nenhuma passiva, atributo ou recompensa importante.
+Nunca mais perca uma passiva ou atributo no Path of Exile 2.
+Um overlay simples, leve e inteligente para acompanhar o progresso da campanha, garantindo que você colete todas as recompensas importantes (Skill Gems, Spirit, Passivas) sem precisar dar Alt-Tab.
+Desenvolvido por: Léo Ramalho - Twister POE no YouTube
+Sinta-se livre para usar, compartilhar e contribuir!
 
-Criado por Léo Ramalho - Twister POE (www.youtube.com/@twisterpoe)
+🚀 Novidades da Versão 3.0
+O aplicativo evoluiu! Agora contamos com recursos avançados para melhorar sua experiência de leveling:
 
-## 🚀 Funcionalidades
+🎯 Novo MODO FOCO: Um modo minimalista que esconde a lista completa e mostra apenas a missão atual. Ocupa menos espaço na tela e avança automaticamente para a próxima tarefa ao clicar em "Concluir".
+⏭️ Sistema de Pular (Skip): Encontrou um Boss difícil ou quer deixar uma side-quest para depois? Use o botão PULAR. A tarefa vai para o fim da fila e reaparece quando você terminar as outras do Ato. Você nunca esquece nada!
+💾 Auto-Save Instantâneo: Seu progresso é salvo automaticamente a cada clique. Fechou o jogo? Crashed? Sem problemas, ao abrir o app tudo estará lá.
+🎨 Classificação por Cores: Identifique a prioridade das missões num piscar de olhos (veja a legenda abaixo).
 
-* **Lista Completa:** Cobre do Ato 1 até o Endgame.
-* **Sempre no Topo:** Fica sobreposto ao jogo (Overlay).
-* **Modo Minimizado:** Recolha a lista para não atrapalhar a visão durante combates.
-* **Transparente:** Não bloqueia totalmente a visão do jogo.
-* **Salva Progresso:** Pode mudar de aba (Ato 1, Ato 2) sem perder o que já marcou.
+📋 Funcionalidades Principais
+Cobertura Completa: Do Ato 1 até o Endgame (Mapas).
+Overlay "Sempre no Topo": Fica sobreposto ao jogo para fácil visualização.
+Minimizável: Use o botão _ para recolher a lista durante combates intensos.
+Transparente: Design limpo que não bloqueia totalmente a visão do jogo.
+Multi-Idioma: Disponível em Português (BR) e Inglês (US).
 
-## 📦 Como Usar
+🎨 Legenda de Cores
+O overlay utiliza um sistema de cores para você saber o que pode pular e o que é obrigatório:
 
-### Passo a Passo
-1.  Baixe o arquivo `TwisterOverlayPOE2.exe` deste repositório. (Português: BR ou Inglês: US)
-2.  Certifique-se de que o jogo está em modo **Janela** ou **Janela em Tela Cheia** (Windowed Fullscreen).
-3.  Dê dois cliques no arquivo `.exe` para abrir.
-4.  Use os botões na parte inferior para navegar entre os Atos.
-5.  Use o botão `_` no topo para minimizar a lista.
+🔴 Vermelho (CRÍTICO): Missões obrigatórias, Pontos de Passiva, Atributos ou +Spirit. Faça sempre!
+🔵 Azul (ÚNICO): Objetivos Account Bound (feitos 1x por liga). Na sua primeira campanha, trate como Vermelho!
+🟢 Verde (OPCIONAL): Side-quests que dão itens ou gemas que você pode não precisar.
+⚪ Cinza (NORMAL): Progressão padrão da história.
 
-## 🤝 Contribuição
+📦 Instalação e Uso
+Pré-requisitos
+O jogo Path of Exile 2 deve estar configurado em modo:
 
-Sinta-se à vontade para sugerir melhorias ou abrir Issues se encontrar algum erro na lista de missões!
+Windowed (Janela) OU
+Windowed Fullscreen (Janela em Tela Cheia) (Em Tela Cheia Exclusiva o overlay não aparecerá).
 
-## 📜 Licença
+Passo a Passo
+Vá até a aba [link suspeito removido] deste repositório.
+Baixe o arquivo executável .exe da versão mais recente (Escolha entre PT-BR ou EN-US).
+Dê dois cliques para abrir. O Windows pode pedir permissão (clique em "Mais informações" -> "Executar mesmo assim").
+Pronto! Use os botões no rodapé para navegar entre os Atos.
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo para detalhes.
+Controles do App
+_ (Topo): Minimiza o App (mostra só a barra de título).
+▣ (Topo): Alterna entre Lista Completa e Modo Foco.
+X (Topo): Fecha o aplicativo.
+
+🤝 Contribuição
+Este é um projeto Open Source feito de fã para fã. Encontrou um erro na ordem das missões? Tem uma ideia nova? Sinta-se à vontade para abrir uma Issue ou enviar um Pull Request.
+
+📜 Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+Bom jogo e bom loot, Exiles! 💎
