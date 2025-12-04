@@ -1,4 +1,4 @@
-# TwisterOverlay-POE2 🌪️
+# Twister Overlay 🐁
 
 **Nunca mais perca uma passiva ou atributo no Path of Exile 2.**
 
