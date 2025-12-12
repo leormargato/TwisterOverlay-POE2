@@ -163,12 +163,14 @@ ACTS_DATA = {
         ("CURSE OF HOLTEN", "header", "#e8c366"),
         ("Scorched Farmlands: Kill Isolde & Heldra", "item", "#cccccc"),
         ("Stones of Serle: Kill Siora", "item", "#cccccc"),
+        ("The BlackWood -> Holten", "item", "#cccccc"),
         ("Holten: Ferryman (Sells Runes for Gold!)", "item", "#55bbff"),
         ("Wolvenhold: Kill Oswin (+2 Passive Pts)", "item", "#ff5555"),
         ("Holten Estate: Thane Wulfric & Lady Elyswyth", "item", "#cccccc"),
         ("THE STOLEN BARYA", "header", "#e8c366"),
         ("The Khari Crossing: Skullmaw (+5% Life)", "item", "#ff5555"),
         ("The Khari Crossing: Kill Atkhi & Anundr", "item", "#cccccc"),
+        ("Pools of Khatal -> Sel Khari", "item", "#cccccc"),
         ("Sel Khari Sanctuary: Kill Elzarah", "item", "#cccccc"),
         ("The Galai Gates: Kill Vornas", "item", "#cccccc"),
         ("Qimah: Orbala's Pillar (Buffs)", "item", "#ff5555"),
@@ -500,3 +502,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = PoEOverlay(root)
     root.mainloop()
+
