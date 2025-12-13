@@ -145,13 +145,14 @@ ACTS_DATA = {
         ("Fim da Jornada: Mate Capitão Hartlin", "item", "#cccccc"),
         ("Prisão Abandonada: Chave/Capela (+Vida)", "item", "#ff5555"),
         ("Confinamento Solitário: Mate o Prisioneiro", "item", "#cccccc"),
+        ("Ilha do Picanço: Fragmento de Mapa", "item", "#ff5555"),
+        ("Ilha do Picanço: Libere Matiki -> Hinekora", "item", "#ff5555"),
         ("Olho de Hinekora -> Salões dos Mortos", "item", "#cccccc"),
         ("Salões dos Mortos: +5% Mana/Status/Passiva", "item", "#ff5555"),
         ("Whakapanu: Grande Branco (Barbatana)", "item", "#ff5555"),
         ("Whakapanu: Fragmento de Mapa", "item", "#ff5555"),
         ("Cavernas Cantantes: Mate Diamora", "item", "#cccccc"),
         ("Cavernas Cantantes: Amuleto Perolado", "item", "#55ff55"),
-        ("Ilha do Picanço: Fragmento de Mapa", "item", "#ff5555"),
         ("FINAL APÓS JUNTAR OS MAPAS", "header", "#e8c366"),
         ("Arastas: Mate Torvian", "item", "#cccccc"),
         ("A Escavação: Mate Benedictus", "item", "#cccccc"),
@@ -502,4 +503,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = PoEOverlay(root)
     root.mainloop()
+
 
