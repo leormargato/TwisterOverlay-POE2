@@ -145,13 +145,14 @@ ACTS_DATA = {
         ("Journey's End: Kill Captain Hartlin", "item", "#cccccc"),
         ("Abandoned Prison: Key/Chapel (+Life)", "item", "#ff5555"),
         ("Solitary Confinement: Kill The Prisoner", "item", "#cccccc"),
+        ("Shrike Island: Map Piece", "item", "#ff5555"),
+        ("Shrike Island: Free Matiki -> Hinekora", "item", "#ff5555"),
         ("Eye of Hinekora -> Halls of the Dead", "item", "#cccccc"),
         ("Halls of the Dead: +5% Mana/Stats/Passive", "item", "#ff5555"),
         ("Whakapanu: Great White One (Shark Fin)", "item", "#ff5555"),
         ("Whakapanu: Map Piece", "item", "#ff5555"),
         ("Singing Caverns: Kill Diamora", "item", "#cccccc"),
         ("Singing Caverns: Pearlescent Amulet", "item", "#55ff55"),
-        ("Shrike Island: Map Piece", "item", "#ff5555"),
         ("FINALE AFTER COLLECTING MAPS", "header", "#e8c366"),
         ("Arastas: Kill Torvian", "item", "#cccccc"),
         ("The Excavation: Kill Benedictus", "item", "#cccccc"),
@@ -502,4 +503,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = PoEOverlay(root)
     root.mainloop()
+
 
