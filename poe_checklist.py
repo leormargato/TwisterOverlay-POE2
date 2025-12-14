@@ -135,7 +135,6 @@ ACTS_DATA = {
     "Ato 4": [
         ("ATO 4 - KINGSMARCH", "header", "#e8c366"),
         ("Kingsmarch: Falar com NPCs", "item", "#cccccc"),
-        ("Ilha dos Goblins: Besta Cega (+2 Pontos)", "item", "#ff5555"),
         ("Ilha dos Goblins: Fragmento de Mapa", "item", "#ff5555"),
         ("Ilha dos Goblins: Cercado das Bestas (Gema Sup)", "item", "#55ff55"),
         ("Ilha dos Goblins: Fóssil (Joalheiro Menor)", "item", "#55ff55"),
@@ -503,5 +502,6 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = PoEOverlay(root)
     root.mainloop()
+
 
 
