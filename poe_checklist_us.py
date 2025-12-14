@@ -135,7 +135,6 @@ ACTS_DATA = {
     "Act 4": [
         ("ACT 4 - KINGSMARCH", "header", "#e8c366"),
         ("Kingsmarch: Talk to NPCs", "item", "#cccccc"),
-        ("Isle of Kin: Blind Beast (+2 Passive Pts)", "item", "#ff5555"),
         ("Isle of Kin: Map Piece", "item", "#ff5555"),
         ("Isle of Kin: Beast Pen (Support Gem)", "item", "#55ff55"),
         ("Isle of Kin: Fossilised Formation (Lesser Jeweller's)", "item", "#55ff55"),
@@ -503,5 +502,6 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = PoEOverlay(root)
     root.mainloop()
+
 
 
